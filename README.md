@@ -1,0 +1,1 @@
+# favorite-intellij-plugins-list
